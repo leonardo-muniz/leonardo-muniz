@@ -32,6 +32,7 @@
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)](https://www.sqlite.org)
 
 ### Outras Tecnologias
@@ -39,10 +40,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)](https://reactjs.org)
 [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github)
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocmuniz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocmuniz)
