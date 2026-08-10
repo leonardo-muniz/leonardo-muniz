@@ -6,7 +6,7 @@ I approach software with a broad architectural mindset — understanding how com
 
 I’m driven by building solutions that scale, last, and empower teams — systems that are observable, testable, resilient, and thoughtfully designed.
 
-## 🧩 Technical Focus
+## Technical Focus
 
 **Architecture & Design:**
 
@@ -36,7 +36,7 @@ I’m driven by building solutions that scale, last, and empower teams — syste
 
 `TDD` • `JUnit` • `Mockito` • `xUnit` • `Selenium` • `Testcontainers` • `Automated Health Checks`
 
-## 🌐 Connect
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/leonardocmuniz](https://www.linkedin.com/in/leonardocmuniz)
 - **Email:** [leonardo.muniz@al.infnet.edu.br](mailto:leonardo.muniz@al.infnet.edu.br)
