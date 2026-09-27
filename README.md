@@ -18,7 +18,7 @@ I’m driven by building solutions that scale, last, and empower teams — syste
 
 **Databases & Storage:**
 
-`PostgreSQL` • `MongoDB` • `Redis` • `MySQL` • `SQL Server`
+`PostgreSQL` • `MongoDB` • `Redis` • `SQL Server`
 
 **Frontend Engineering:**
 
@@ -26,17 +26,18 @@ I’m driven by building solutions that scale, last, and empower teams — syste
 
 **DevOps & Cloud:**
 
-`Docker` • `CI/CD (GitHub Actions)` • `Railway` • `Observability (Micrometer, OpenTelemetry)`
+`Docker` • `Kubernetes` • `CI/CD (GitHub Actions)` • `Microsoft Azure` • `Railway` • `Observability (Micrometer, OpenTelemetry)`
 
 **AI & Data:**
 
-`Python` • `Scikit‑Learn` • `TensorFlow` • `PyTorch` • `XAI (LIME/SHAP)`
+`Python` • `Scikit‑Learn` • `PyTorch` • `TensorFlow` • `XGBoost` • `LightGBM`  `XAI (LIME/SHAP)`
 
 **Quality Engineering:**
 
-`TDD` • `JUnit` • `Mockito` • `xUnit` • `Selenium` • `Testcontainers` • `Automated Health Checks`
+`TDD` • `JUnit` • `Mockito` • `xUnit` • `pytest` • `Selenium` • `Testcontainers` • `Automated Health Checks`
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/leonardocmuniz](https://www.linkedin.com/in/leonardocmuniz)
-- **Email:** [leonardo.muniz@al.infnet.edu.br](mailto:leonardo.muniz@al.infnet.edu.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocmuniz)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.muniz@al.infnet.edu.br)
+
